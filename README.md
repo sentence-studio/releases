@@ -4,7 +4,7 @@ Desktop apps for the **Sentence Studio — AI Rephrase** Chrome extension. Selec
 
 ## Windows (preview)
 
-**[Download Sentence Studio for Windows 0.1.1](https://github.com/talevski-niko/sentence-studio-releases/releases/download/windows-v0.1.1/SentenceStudio-Windows-0.1.1.zip)**
+**[Download Sentence Studio for Windows 0.1.1](https://github.com/sentence-studio/releases/releases/download/windows-v0.1.1/SentenceStudio-Windows-0.1.1.zip)**
 
 1. Install the Sentence Studio extension in Chrome and sign in.
 2. Extract the ZIP fully.
