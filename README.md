@@ -20,6 +20,6 @@ This is an unsigned preview. If you skipped the Unblock step and Windows SmartSc
 
 ## Privacy
 
-[Privacy policy](https://talevski-niko.github.io/sentence-studio-privacy/) · Contact: sentence.studio.ai@gmail.com
+[Privacy policy](https://sentence-studio.github.io/privacy/) · Contact: sentence.studio.ai@gmail.com
 
 Independent project, not affiliated with OpenAI or Anthropic.
