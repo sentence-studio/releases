@@ -1,10 +1,10 @@
 # Sentence Studio — downloads
 
-Desktop apps for the **Sentence Studio — AI Rephrase** Chrome extension. Select text in Microsoft Teams or another app, press the shortcut, and choose from three rewrites: **Natural and clear**, **Professional** and **Short and direct**.
+Desktop apps for the **Sentence Studio — AI Writing Assistant** Chrome extension. Select text in Microsoft Teams or another app, press the shortcut, and choose from three rewrites: **Natural and clear**, **Professional** and **Short and direct**.
 
-## Windows (preview)
+## Windows connector (preview)
 
-**[Download Sentence Studio for Windows 0.1.1](https://github.com/sentence-studio/releases/releases/download/windows-v0.1.1/SentenceStudio-Windows-0.1.1.zip)**
+**[Download the Sentence Studio Windows connector 0.1.1](https://github.com/sentence-studio/releases/releases/download/windows-v0.1.1/SentenceStudio-Windows-0.1.1.zip)**
 
 1. Install the Sentence Studio extension in Chrome, choose ChatGPT or Gemini in its popup, and connect.
 2. **Unblock the ZIP before extracting it.** Right-click the downloaded ZIP → **Properties** → tick **Unblock** at the bottom of the General tab → **OK**. This tells Windows you trust the download and avoids most security warnings. (If there's no Unblock box, Windows hasn't blocked it and you can skip this step.)
